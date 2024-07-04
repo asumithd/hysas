@@ -2,9 +2,6 @@
   "/api": {
     "target": "https://angularapi-dlal.onrender.com",
     "secure": false,
-    "changeOrigin": true,
-    "pathRewrite": {
-      "^/api": ""
-    }
+    "changeOrigin": true
   }
 }
